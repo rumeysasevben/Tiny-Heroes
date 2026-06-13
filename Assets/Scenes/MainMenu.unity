@@ -698,6 +698,7 @@ MonoBehaviour:
   levelUpSfx: {fileID: 8300000, guid: ce38531e904524e45b6fd5934f1ffc3e, type: 3}
   heartPickupSfx: {fileID: 8300000, guid: b32049a6999213947b050b64dfba5325, type: 3}
   chanceBoxSfx: {fileID: 8300000, guid: 7d8d55e1426d4074cbf6abaea5c5fa7f, type: 3}
+  minShootInterval: 0.08
   musicVolume: 0.924
   sfxVolume: 0.519
 --- !u!4 &446111913
